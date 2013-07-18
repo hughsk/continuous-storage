@@ -1,0 +1,28 @@
+{
+  "name": "continuous-storage",
+  "version": "0.0.0",
+  "description": "Store a continuous ndarray in a level.js/levelup database",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/continuous-storage.git"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "ndarray-json": "0.0.0",
+    "isndarray": "~0.1.0"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {},
+  "keywords": [
+    "storage",
+    "levelup",
+    "leveldb",
+    "indexedb",
+    "ndarray",
+    "infinite",
+    "save",
+    "persistent"
+  ]
+}
