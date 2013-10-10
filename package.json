@@ -10,7 +10,7 @@
   "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
   "license": "MIT",
   "dependencies": {
-    "ndarray-json": "0.0.0",
+    "ndarray-json": "~0.1.0",
     "isndarray": "~0.1.0"
   },
   "readmeFilename": "README.md",
